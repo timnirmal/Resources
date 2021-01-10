@@ -47,5 +47,18 @@
 
 ## Services
 
+* [Communication](services/communication.md)
 * [ECommerce](services/ecommerce.md)
+
+## Other - Example <a id="other"></a>
+
+* [Selling](other/selling.md)
+
+## Other - Services
+
+* [Sponsers](other-services/sponsers.md)
+
+## Other - Ideas
+
+* [AR](other-ideas/ar.md)
 
