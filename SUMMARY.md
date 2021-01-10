@@ -36,7 +36,8 @@
 
 ## Learning
 
-* [Learning Platforms](learning/learning-platforms.md)
+* [Learning Platforms](learning/learning-platforms/README.md)
+  * [Google](learning/learning-platforms/google.md)
 
 ## Marketing
 
