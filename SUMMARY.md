@@ -4,6 +4,9 @@
 
 ## Graphic Design
 
+* [Softwares / Apps / Web](graphic-design/softwares-apps-web.md)
+* [Items](graphic-design/items/README.md)
+  * [Event Badges](graphic-design/items/event-badges.md)
 * [Colors](graphic-design/colors.md)
 * [Branding](graphic-design/branding.md)
 * [Infographics](graphic-design/infographics.md)
@@ -21,6 +24,8 @@
 
 ## Web Development
 
+* [Resources](web-development/resources.md)
+* [Templates](web-development/templates.md)
 * [Untitled](web-development/untitled.md)
 
 ## Project Management
@@ -35,6 +40,7 @@
 
 ## Marketing
 
+* [Selling Platforms](marketing/selling-platforms.md)
 * [Marketing Ideas](marketing/marketing-ideas.md)
 * [Social Media Marketing](marketing/social-media-marketing/README.md)
   * [Facebook](marketing/social-media-marketing/facebook.md)
