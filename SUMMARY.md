@@ -41,9 +41,11 @@
 
 ## Marketing
 
-* [Selling Platforms](marketing/selling-platforms.md)
+* [Selling Platforms](marketing/selling-platforms/README.md)
+  * [Etsy](marketing/selling-platforms/etsy.md)
 * [Marketing Ideas](marketing/marketing-ideas.md)
 * [Social Media Marketing](marketing/social-media-marketing/README.md)
+  * [Pinterest](marketing/social-media-marketing/pinterest.md)
   * [Facebook](marketing/social-media-marketing/facebook.md)
 
 ## Services
