@@ -27,6 +27,7 @@
 * [Resources](web-development/resources.md)
 * [Templates](web-development/templates.md)
 * [Untitled](web-development/untitled.md)
+* [SEO](web-development/seo.md)
 
 ## Project Management
 
@@ -45,7 +46,8 @@
   * [Etsy](marketing/selling-platforms/etsy.md)
 * [Marketing Ideas](marketing/marketing-ideas.md)
 * [Social Media Marketing](marketing/social-media-marketing/README.md)
-  * [Pinterest](marketing/social-media-marketing/pinterest.md)
+  * [Pinterest](marketing/social-media-marketing/pinterest/README.md)
+    * [Tools](marketing/social-media-marketing/pinterest/tools.md)
   * [Facebook](marketing/social-media-marketing/facebook.md)
 
 ## Services
