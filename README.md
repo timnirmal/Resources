@@ -14,5 +14,9 @@
 
 {% embed url="https://restream.io/" %}
 
+{% embed url="http://colormind.io/" %}
+
+{% embed url="http://khroma.co/train/" %}
+
 
 
