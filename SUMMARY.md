@@ -68,3 +68,7 @@
 
 * [AR](other-ideas/ar.md)
 
+## Utility
+
+* [Zip Files](utility/zip-files.md)
+
