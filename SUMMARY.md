@@ -18,9 +18,10 @@
 * [Templates](branding/templates.md)
 * [Learn](branding/learn.md)
 
-## Social Media Advertising
+## Social Media Marketing
 
-* [Untitled](social-media-advertising/untitled.md)
+* [Untitled](social-media-marketing/untitled.md)
+* [Blogs](social-media-marketing/blogs.md)
 
 ## Web Development
 
@@ -71,4 +72,5 @@
 ## Utility
 
 * [Zip Files](utility/zip-files.md)
+* [Emulators](utility/emulators.md)
 
