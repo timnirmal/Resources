@@ -1,8 +1,6 @@
 # Learning Platforms
 
-{% embed url="https://www.hubspot.com/knowledge-base" %}
+{% embed url="https://www.hubspot.com/knowledge-base" caption="" %}
 
-{% embed url="https://lab.github.com/githubtraining/" %}
-
-
+{% embed url="https://lab.github.com/githubtraining/" caption="" %}
 

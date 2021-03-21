@@ -4,7 +4,5 @@
 
 Paid better than jirra
 
-{% embed url="https://niftypm.com/" %}
-
-
+{% embed url="https://niftypm.com/" caption="" %}
 

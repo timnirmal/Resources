@@ -1,6 +1,4 @@
 # Branding Examples
 
-{% embed url="https://atlassian.design/" %}
-
-
+{% embed url="https://atlassian.design/" caption="" %}
 

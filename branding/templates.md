@@ -1,6 +1,4 @@
 # Templates
 
-{% embed url="https://venngage.com/blog/brand-guidelines-templates/" %}
-
-
+{% embed url="https://venngage.com/blog/brand-guidelines-templates/" caption="" %}
 

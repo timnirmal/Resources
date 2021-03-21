@@ -1,6 +1,4 @@
 # Data Collecting
 
-{% embed url="https://www.typeform.com/" %}
-
-
+{% embed url="https://www.typeform.com/" caption="" %}
 

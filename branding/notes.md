@@ -15,8 +15,6 @@
 > * This is what your bullet list will look like.
 > * This is what your bullet list will look like.
 
-
-
 ### Colors
 
 Light BG Color
@@ -33,11 +31,7 @@ Red
 
 EB4034
 
-
-
 ## Logos
-
-
 
 ## Brand Links
 
@@ -52,8 +46,4 @@ EB4034
 * Instagram
 * Medium
 * Youtube
-
-
-
-
 

@@ -5,22 +5,16 @@
 Insta Selling Photos and Videos
 
 {% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Images" %}
-{% embed url="https://www.instagram.com/p/CJwavSPlRzR/" %}
-
-{% embed url="https://www.instagram.com/p/CJq8kNOF7UX/" %}
-{% endtab %}
-
-{% tab title="Videos" %}
-{% embed url="https://www.instagram.com/p/CJw1Fdzsrgy/" %}
-
-{% embed url="https://www.instagram.com/p/CJrsFmLlODQ/" %}
-{% endtab %}
-{% endtabs %}
 
 
+
+
+
+{% embed url="https://www.instagram.com/p/CJwavSPlRzR/" caption="" %}
+
+{% embed url="https://www.instagram.com/p/CJq8kNOF7UX/" caption="" %}
+
+{% embed url="https://www.instagram.com/p/CJw1Fdzsrgy/" caption="" %}
+
+{% embed url="https://www.instagram.com/p/CJrsFmLlODQ/" caption="" %}
 

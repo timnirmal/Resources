@@ -1,6 +1,4 @@
 # Infographics
 
-{% embed url="https://venngage.com/" %}
-
-
+{% embed url="https://venngage.com/" caption="" %}
 
