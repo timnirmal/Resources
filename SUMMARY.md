@@ -4,6 +4,7 @@
 
 ## Graphic Design
 
+* [Notes](graphic-design/notes.md)
 * [Softwares / Apps / Web](graphic-design/softwares-apps-web.md)
 * [Items](graphic-design/items/README.md)
   * [Event Badges](graphic-design/items/event-badges.md)
