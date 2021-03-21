@@ -10,6 +10,8 @@
 * [Colors](graphic-design/colors.md)
 * [Branding](graphic-design/branding.md)
 * [Infographics](graphic-design/infographics.md)
+* [AI](graphic-design/ai.md)
+* [See Later](graphic-design/see-later.md)
 
 ## Branding
 
@@ -47,6 +49,7 @@
   * [Etsy](marketing/selling-platforms/etsy.md)
 * [Marketing Ideas](marketing/marketing-ideas.md)
 * [Social Media Marketing](marketing/social-media-marketing/README.md)
+  * [See Later](marketing/social-media-marketing/see-later.md)
   * [Pinterest](marketing/social-media-marketing/pinterest/README.md)
     * [Tools](marketing/social-media-marketing/pinterest/tools.md)
   * [Facebook](marketing/social-media-marketing/facebook.md)
