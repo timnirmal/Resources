@@ -2,6 +2,10 @@
 
 {% embed url="https://blog.hootsuite.com/social-media-image-sizes-guide/\#Facebook\_image\_sizes" %}
 
+{% embed url="https://louisem.com/2852/social-media-cheat-sheet-sizes\#facebook" %}
+
+{% embed url="https://louisem.com/120414/facebook-image-dimensions" %}
+
 ## Facebook Page
 
 ### Profile Photo
