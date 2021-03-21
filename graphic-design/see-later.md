@@ -4,5 +4,7 @@
 
 {% embed url="https://99designs.com/blog/tips/logo-color-meanings/" %}
 
+{% embed url="https://www.kimp.io/kimptips/" %}
+
 
 
