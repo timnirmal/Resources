@@ -82,3 +82,11 @@ But avoid pixilation or slow load times by remembering these sizes:
 * Don’t choose an image with a width smaller than 500 pixels.
 * For Stories with text, consider leaving 14% of the top and bottom text-free. \(That’s 250 pixels.\) That way any call-to-action won’t be covered by your brand’s profile photo or buttons.
 
+## LinkedIn
+
+### Cover Image : 
+
+1,128px x 191px Recommended
+
+
+
